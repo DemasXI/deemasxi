@@ -65,7 +65,7 @@
 
 }
 
-.long-btn-spotify {
+.long-btn-website {
   margin: 20px auto;
   border-radius: 20px;
   border: 2px solid #000000;
@@ -81,7 +81,7 @@
   font-size: 18px;
 }
 
-.long-btn-spotify:hover {
+.long-btn-website:hover {
   color: #f0f0f0;
   background-color: #1ed760;
   transition-duration: 0.5s;
